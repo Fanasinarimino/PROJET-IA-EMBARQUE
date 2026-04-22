@@ -1,0 +1,5 @@
+D:/Users/user/Music/Nx_TCP_Echo_Client/FSBL/NetXDuo/App/app_netxduo.c:73:6:MX_NetXDuo_Init	18
+D:/Users/user/Music/Nx_TCP_Echo_Client/FSBL/NetXDuo/App/app_netxduo.c:253:13:ip_address_change_notify_callback	3
+D:/Users/user/Music/Nx_TCP_Echo_Client/FSBL/NetXDuo/App/app_netxduo.c:275:13:nx_app_thread_entry	4
+D:/Users/user/Music/Nx_TCP_Echo_Client/FSBL/NetXDuo/App/app_netxduo.c:334:13:App_TCP_Thread_Entry	3
+D:/Users/user/Music/Nx_TCP_Echo_Client/FSBL/NetXDuo/App/app_netxduo.c:388:13:App_Link_Thread_Entry	6
