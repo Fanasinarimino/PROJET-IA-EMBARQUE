@@ -10,7 +10,7 @@ function devinerMeteo(temp, hum) {
 async function updateWeather() {
     try {
         // RAPPEL : Assurez-vous que votre server.js tourne en arrière-plan !
-        const response = await fetch('http://localhost:3000/api/weather');
+        const response = await fetch('https://super-duper-journey-4q77x9jxgpxxc5jq-3000.app.github.dev/api/weather');
         const data = await response.json();
         const lastFeed = data.feeds[data.feeds.length - 1];
 
