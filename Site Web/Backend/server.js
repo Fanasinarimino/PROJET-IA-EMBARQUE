@@ -7,7 +7,7 @@ const PORT = 3000;
 app.use(cors());
 
 // A remplacer
-const CHANNEL_ID = 'VOTRE_CHANNEL_ID';
+const CHANNEL_ID = 3349807;
 const READ_API_KEY = 'VOTRE_READ_API_KEY';
 
 app.get('/api/weather', async (req, res) => {
